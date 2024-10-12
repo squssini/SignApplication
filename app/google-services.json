@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "956838960323",
+    "project_id": "signapplication-d3c89",
+    "storage_bucket": "signapplication-d3c89.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956838960323:android:635ede9ea3701ca0fad676",
+        "android_client_info": {
+          "package_name": "com.example.signapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9zF3L_KfsgN6S6dLec5AyU5OE2fF0nv8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
