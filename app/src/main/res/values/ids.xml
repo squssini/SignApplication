@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <item name="frameLayoutMain" type="id" />
+    <item name="etEmailForgotPassword" type="id" />
+    <item name="btnResetForgotPassword" type="id" />
 </resources>

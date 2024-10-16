@@ -48,9 +48,19 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginStart="16dp"
-            android:layout_marginTop="37dp"
+            android:layout_marginTop="144dp"
             android:text="Signup..."
             app:layout_constraintStart_toStartOf="@+id/btnLoginLogin"
+            app:layout_constraintTop_toBottomOf="@+id/btnLoginLogin" />
+
+        <TextView
+            android:id="@+id/forgot"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="42dp"
+            android:text="forgot password..."
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/btnLoginLogin" />
     </androidx.constraintlayout.widget.ConstraintLayout>
 </FrameLayout>
